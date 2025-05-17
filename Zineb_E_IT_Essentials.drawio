@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6" pages="2">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -73,8 +73,8 @@
         <mxCell id="6a7d8f32e03d9370-62" value="Zineb eLab Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1c8GS376BosE7XwJWquw-1" value="IaaS - OrangeHRM&lt;br&gt;https://34.242.151.215&amp;nbsp;&lt;br&gt;AWS" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="190" width="66" height="90.63" as="geometry" />
+        <mxCell id="1c8GS376BosE7XwJWquw-1" value="IaaS - OrangeHRM&lt;br&gt;https://34.242.151.215&lt;br&gt;https://ec2-34-242-151-215.eu-west-1.compute.amazonaws.com/&amp;nbsp;&lt;br&gt;AWS - Public Cloud" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1378.5" y="210" width="66" height="90.63" as="geometry" />
         </mxCell>
         <mxCell id="1c8GS376BosE7XwJWquw-5" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.switch;" parent="1" vertex="1">
           <mxGeometry x="570" y="418" width="92" height="41.5" as="geometry" />
@@ -160,7 +160,7 @@
         <mxCell id="1c8GS376BosE7XwJWquw-28" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.router;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="947.5" y="650.8" width="85" height="56.41" as="geometry" />
         </mxCell>
-        <mxCell id="1c8GS376BosE7XwJWquw-42" value="&lt;br&gt;OrangeHRM &lt;br&gt;Application Server" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
+        <mxCell id="1c8GS376BosE7XwJWquw-42" value="&lt;br&gt;OnPrem - OrangeHRM&lt;div&gt;https://10.1.30.38&amp;nbsp;&amp;nbsp;&lt;br&gt;VCSA - Cloud Private&lt;/div&gt;" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="420" width="66" height="90.63" as="geometry" />
         </mxCell>
         <mxCell id="1c8GS376BosE7XwJWquw-44" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;exitX=0.547;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.109;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1c8GS376BosE7XwJWquw-42" target="1c8GS376BosE7XwJWquw-5" edge="1">
@@ -207,9 +207,6 @@
             <mxPoint x="1110" y="691" as="targetPoint" />
             <mxPoint x="1052" y="460" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8HBRmW3oeEry_8KMEBdA-13" value="10.1.30.38" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="517.99" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8HBRmW3oeEry_8KMEBdA-14" value="10.0.0.0/8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1536.25" y="710" width="60" height="30" as="geometry" />
