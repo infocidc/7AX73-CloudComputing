@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.1.0" pages="3">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1665" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -249,6 +249,61 @@
         <mxCell id="j2I_GLVTiyNyHc5W9Z5e-1" value="IaaS: 4.42 USD + 0 Installation&amp;nbsp; + Le temps de config + Maintenance&lt;br&gt;PaaS:63.78 USD" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="475" width="400" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="efGR0MtrN7UTLoi_tvFj" name="Page-3">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="125.32" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-1" value="&lt;br&gt;OnPrem - OrangeHRM&lt;div&gt;https://10.1.30.38&amp;nbsp;&amp;nbsp;&lt;br&gt;VCSA - Loal VM&lt;/div&gt;" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="66" height="90.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-2" value="Step 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-3" value="App: OHRM&lt;br&gt;DB: DB MariaDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="135.32" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-5" value="Step 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="385.32" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-8" value="&lt;br&gt;IaaS Cloud - OrangeHRM&lt;div&gt;https://xxxx.aws.com&amp;nbsp;&amp;nbsp;&lt;br&gt;CIDC - Private Cloud on Prem&lt;/div&gt;" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="66" height="90.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-9" value="App: OHRM&lt;br&gt;DB: MariaDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="395.32" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-10" value="Step 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="635.3199999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-12" value="&lt;br&gt;IaaS Cloud - OrangeHRM&lt;div&gt;https://xxxx.aws.com&amp;nbsp;&amp;nbsp;&lt;br&gt;AWS - Cloud Public&lt;/div&gt;" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="66" height="90.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-13" value="App: OHRM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="650.3199999999999" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="779" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ecoo64SPdsBGghtVNr4E-16" value="&lt;br&gt;DB: MariaDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="789" width="90" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;PaaS Cloud - OrangeHRM&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;https://xxxx.aws.com&amp;nbsp;&amp;nbsp;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;AWS - Cloud Public&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" link="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;IaaS Cloud - OrangeHRM&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;https://xxxx.aws.com&amp;nbsp;&amp;nbsp;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;AWS - Cloud Pub&lt;/div&gt;&#xa;&#xa;" id="Ecoo64SPdsBGghtVNr4E-17">
+          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
+            <mxGeometry x="114" y="770" width="78" height="78" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
